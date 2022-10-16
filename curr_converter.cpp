@@ -1,4 +1,4 @@
-// C++ program to demonstrate the working of friend function
+
 
 #include <iostream>
 using namespace std;
